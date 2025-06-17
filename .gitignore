@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+/Volumes/ExternalHD/ICP/
+*.json
+*.npy
+venv/
+__pycache__/
+*.pyc
+.DS_Store

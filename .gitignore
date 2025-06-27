@@ -1,3 +1,28 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-data/
-checkpoints/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+._*
+
+# Logs and outputs
+*.log
+outputs/
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden files
+.env
+

@@ -1,9 +1,0 @@
-opencv-python==4.8.0.76
-nltk==3.8.1
-spacy==3.7.2
-streamlit==1.28.0
-pycocotools==2.0.7
-numpy==1.26.0
-pandas==2.1.1
-matplotlib==3.8.0
-pillow==10.0.1
